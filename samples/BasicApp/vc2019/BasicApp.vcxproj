@@ -206,7 +206,7 @@ xcopy /y "..\..\..\lib\msw\$(PlatformTarget)\d3dcompiler_46.dll" "$(OutDir)"</Co
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ClCompile Include="..\src\BasicApp.cpp" />
+    <ClCompile Include="BasicApp.cpp" />
     <ClCompile Include="handler.cpp" />
   </ItemGroup>
   <ItemGroup>
